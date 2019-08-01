@@ -1,4 +1,4 @@
-# bmrk - a command line bookmark manager
+# bmrk
 
 ## Parsing HTML in Go
 - [golang.org/x/net/html](https://godoc.org/golang.org/x/net/html)
